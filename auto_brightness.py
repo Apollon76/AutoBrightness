@@ -1,4 +1,4 @@
-import sys, os
+import os
 import time
 from PIL import Image, ImageDraw
 
